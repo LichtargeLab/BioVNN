@@ -3,7 +3,7 @@
 Using Interpretable Deep Learning to Model Cancer Dependencies
 ==============================
 
-If you have any questions or comments, feel free to contact Chih-Hsu (Jack) Lin (chihhsul[at]bcm[dot]edu).
+If you have any questions or comments, feel free to contact Jack Chih-Hsu Lin (lin.chihhsu[at]gmail[dot]com).
 
 --------
 ## Content
@@ -13,9 +13,9 @@ If you have any questions or comments, feel free to contact Chih-Hsu (Jack) Lin 
  - [Project organization](#project-organization)
 
 --------
-## Download code and data
+## Download code
 ```bash
-wget https://github.com/LichtargeLab/BioVNN
+git clone https://github.com/LichtargeLab/BioVNN.git
 ```
 
 --------
