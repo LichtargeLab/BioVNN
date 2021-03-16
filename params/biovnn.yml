@@ -1,0 +1,9 @@
+run_mode: ref
+learning_rate: 1e-3
+batch_size: 2000
+epochs: 200
+patience: 2
+seeds:
+- 0
+- 1
+- 2

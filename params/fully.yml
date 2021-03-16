@@ -1,0 +1,11 @@
+run_mode: full
+dropout_p1: 0.1
+learning_rate: 3e-4
+epochs_min: 35
+batch_size: 2000
+epochs: 200
+patience: 2
+seeds:
+- 0
+- 1
+- 2

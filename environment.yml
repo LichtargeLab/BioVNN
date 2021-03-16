@@ -1,0 +1,28 @@
+name: BioVNN
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - cudatoolkit=10.0
+  - h5py=2.8.0
+  - ipykernel=4.8.2
+  - ipython=6.4.0
+  - matplotlib=2.2.2
+  - numpy=1.19.1
+  - pandas=0.22.0
+  - pip=19.2.2
+  - pytables=3.4.4
+  - python=3.6.5
+  - pytorch=1.2.0
+  - pyyaml=5.3.1
+  - torchvision=0.4.0
+  - scikit-learn=0.23.2
+  - scipy=1.5.2
+  - seaborn=0.9.0
+  - plotly=3.4.1
+  - yaml=0.1.7
+  - tqdm=4.32.1
+  - pip:
+    - python-dotenv[cli]==0.10.3
+prefix: BioVNN
+
