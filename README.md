@@ -7,7 +7,7 @@ If you have any questions or comments, feel free to contact Jack Chih-Hsu Lin (l
 
 --------
 ## Content
- - [Download code and data](#download-code-and-data)
+ - [Download code](#download-code)
  - [Installation and download data](#installation-and-download-data)
  - [Run experiments](#run-experiments)
  - [Project organization](#project-organization)
