@@ -3,6 +3,8 @@
 Using Interpretable Deep Learning to Model Cancer Dependencies
 ==============================
 
+The code repository of [Using Interpretable Deep Learning to Model Cancer Dependencies. C.H. Lin, O. Lichtarge
+*Bioinformatics*, 2021.](https://doi.org/10.1093/bioinformatics/btab137)
 If you have any questions or comments, feel free to contact Jack Chih-Hsu Lin (lin.chihhsu[at]gmail[dot]com).
 
 --------
